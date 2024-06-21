@@ -1,6 +1,8 @@
 WinIPBroadcast changelog
 ========================
 
+- (21/06/2024)
+  - Change PlatformToolset to v143
 - 1.6 (01/05/2017)
   - The MSVC runtime DLL is now linked in statically. This should prevent issues related to missing DLLs on some systems.
 - 1.5 (09/04/2017)
